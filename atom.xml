@@ -4,7 +4,7 @@
   <title><![CDATA[小豆的小店]]></title>
   <link href="http://renhongyuq.github.io/test09/atom.xml" rel="self"/>
   <link href="http://renhongyuq.github.io/test09/"/>
-  <updated>2014-04-30T17:48:46+02:00</updated>
+  <updated>2014-04-30T21:05:38+02:00</updated>
   <id>http://renhongyuq.github.io/test09/</id>
   <author>
     <name><![CDATA[小豆]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test001]]></title>
+    <link href="http://renhongyuq.github.io/test09/blog/2014/04/30/test001/"/>
+    <updated>2014-04-30T17:58:25+02:00</updated>
+    <id>http://renhongyuq.github.io/test09/blog/2014/04/30/test001</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ACO眼霜]]></title>
@@ -96,7 +105,7 @@ meipihu
     <id>http://renhongyuq.github.io/test09/blog/2014/04/28/pharbio</id>
     <content type="html"><![CDATA[<p>先给大家推荐一些小豆自己在用的觉得很好的东东</p>
 
-<p><img class="right" src="http://renhongyuq.github.io/test09/images/2014/04/pharbio1.png" width="40" height="40"></p>
+<p><img class="right" src="http://renhongyuq.github.io/test09/images/2014/04/pharbio1.png" width="60" height="60"></p>
 
 <!-- more -->
 
