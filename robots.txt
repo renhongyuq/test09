@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://renhongyuq.github.io/test09/sitemap.xml 
+Sitemap: http://renhongyuq.github.io/test09/xiaodou/sitemap.xml 

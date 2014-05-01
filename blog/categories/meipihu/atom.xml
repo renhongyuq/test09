@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Meipihu | 小豆的小店]]></title>
-  <link href="http://renhongyuq.github.io/test09/blog/categories/meipihu/atom.xml" rel="self"/>
-  <link href="http://renhongyuq.github.io/test09/"/>
-  <updated>2014-05-01T20:44:30+02:00</updated>
-  <id>http://renhongyuq.github.io/test09/</id>
+  <link href="http://renhongyuq.github.io/test09/xiaodou/blog/categories/meipihu/atom.xml" rel="self"/>
+  <link href="http://renhongyuq.github.io/test09/xiaodou/"/>
+  <updated>2014-05-01T20:50:02+02:00</updated>
+  <id>http://renhongyuq.github.io/test09/xiaodou/</id>
   <author>
     <name><![CDATA[小豆]]></name>
     <email><![CDATA[mianbaoxiaodou@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[美皮护]]></title>
-    <link href="http://renhongyuq.github.io/test09/blog/2014/04/28/mepiform/"/>
+    <link href="http://renhongyuq.github.io/test09/xiaodou/blog/2014/04/28/mepiform/"/>
     <updated>2014-04-28T15:51:46+02:00</updated>
-    <id>http://renhongyuq.github.io/test09/blog/2014/04/28/mepiform</id>
+    <id>http://renhongyuq.github.io/test09/xiaodou/blog/2014/04/28/mepiform</id>
     <content type="html"><![CDATA[<!-- more -->
 
 
